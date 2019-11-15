@@ -1,7 +1,7 @@
 # Tank Game
 Malkam Golden
 
-Our project was intelliJ IDEA
+Project was created using intelliJ IDEA
 
 # How to Set Up (Quick Way)
 
